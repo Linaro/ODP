@@ -1,0 +1,21 @@
+<map id="queue.h" name="queue.h">
+<area shape="rect" id="node2" href="$visibility__begin_8h_source.html" title="odp/visibility_begin.h" alt="" coords="195,781,357,808"/>
+<area shape="rect" id="node3" href="$api_2event_8h.html" title="ODP event. " alt="" coords="849,80,972,107"/>
+<area shape="rect" id="node14" href="$visibility__end_8h_source.html" title="odp/visibility_end.h" alt="" coords="1077,781,1227,808"/>
+<area shape="rect" id="node23" href="$queue__types_8h.html" title="ODP queue types. " alt="" coords="201,379,349,420"/>
+<area shape="rect" id="node5" href="$api_2spec_2event_8h.html" title="ODP event. " alt="" coords="832,155,989,181"/>
+<area shape="rect" id="node6" href="$api_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="845,229,976,256"/>
+<area shape="rect" id="node7" href="$api_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="1149,468,1299,495"/>
+<area shape="rect" id="node19" href="$api_2spec_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="1022,304,1186,331"/>
+<area shape="rect" id="node9" href="$api_2spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="926,550,1109,577"/>
+<area shape="rect" id="node11" href="$api_2align_8h.html" title="ODP alignments. " alt="" coords="955,632,1074,659"/>
+<area shape="rect" id="node13" href="$api_2spec_2align_8h.html" title="ODP alignments. " alt="" coords="936,707,1088,733"/>
+<area shape="rect" id="node20" href="$api_2time_8h.html" title="ODP time. " alt="" coords="1007,386,1123,413"/>
+<area shape="rect" id="node22" href="$api_2spec_2time_8h.html" title="ODP time. " alt="" coords="761,707,911,733"/>
+<area shape="rect" id="node24" href="$api_2schedule__types_8h.html" title="ODP schedule. " alt="" coords="379,468,565,495"/>
+<area shape="rect" id="node29" href="$deprecated_8h.html" title="Control deprecated API definitions. " alt="" coords="195,468,354,495"/>
+<area shape="rect" id="node26" href="$api_2spec_2schedule__types_8h.html" title="ODP schedule types. " alt="" coords="517,543,683,584"/>
+<area shape="rect" id="node27" href="$support_8h.html" title="ODP support API &#45; platform specific header. " alt="" coords="533,632,667,659"/>
+<area shape="rect" id="node28" href="$spec_2support_8h.html" title="ODP support API. " alt="" coords="515,707,685,733"/>
+<area shape="rect" id="node30" href="$spec_2deprecated_8h.html" title="Macro for deprecated API definitions. " alt="" coords="246,707,439,733"/>
+</map>

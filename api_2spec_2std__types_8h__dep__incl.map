@@ -1,0 +1,51 @@
+<map id="std_types.h" name="std_types.h">
+<area shape="rect" id="node2" href="$api_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="2869,80,2967,107"/>
+<area shape="rect" id="node3" href="$api_2abi-default_2atomic_8h.html" title="ODP atomic operations. " alt="" coords="365,155,444,181"/>
+<area shape="rect" id="node11" href="$api_2abi-default_2barrier_8h.html" title="ODP barrier. " alt="" coords="1073,155,1149,181"/>
+<area shape="rect" id="node19" href="$api_2barrier_8h.html" title="ODP execution barriers. " alt="" coords="1375,304,1451,331"/>
+<area shape="rect" id="node20" href="$odp__api_8h.html" title="The OpenDataPlane API. " alt="" coords="2921,379,3006,405"/>
+<area shape="rect" id="node21" href="$api_2abi-default_2byteorder_8h.html" title="ODP byteorder. " alt="" coords="1526,155,1622,181"/>
+<area shape="rect" id="node22" href="$api_2abi-default_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="1646,155,1739,181"/>
+<area shape="rect" id="node23" href="$api_2abi-default_2init_8h.html" title="ODP initialization. " alt="" coords="1764,155,1819,181"/>
+<area shape="rect" id="node24" href="$api_2abi-default_2ipsec_8h.html" title="ODP IPSEC API &#45; platform specific types. " alt="" coords="1843,155,1911,181"/>
+<area shape="rect" id="node25" href="$api_2abi-default_2packet__io_8h.html" title="ODP Packet IO. " alt="" coords="1935,155,2032,181"/>
+<area shape="rect" id="node26" href="$api_2abi-default_2rwlock__recursive_8h.html" title="ODP recursive read/write lock. " alt="" coords="2057,155,2201,181"/>
+<area shape="rect" id="node27" href="$api_2abi-default_2schedule_8h.html" title="ODP schedule. " alt="" coords="2225,155,2317,181"/>
+<area shape="rect" id="node28" href="$api_2abi-default_2spinlock__recursive_8h.html" title="ODP recursive spinlock. " alt="" coords="2342,155,2497,181"/>
+<area shape="rect" id="node29" href="$api_2abi-default_2traffic__mngr_8h.html" title="ODP traffic mngr. " alt="" coords="2521,155,2633,181"/>
+<area shape="rect" id="node30" href="$api_2buffer_8h.html" title="ODP buffer descriptor. " alt="" coords="2567,304,2637,331"/>
+<area shape="rect" id="node31" href="$api_2classification_8h.html" title="ODP classification descriptor. " alt="" coords="2661,304,2780,331"/>
+<area shape="rect" id="node32" href="$api_2crypto_8h.html" title="ODP crypto. " alt="" coords="3137,229,3211,256"/>
+<area shape="rect" id="node33" href="$api_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="2759,155,2837,181"/>
+<area shape="rect" id="node34" href="$api_2spec_2packet__flags_8h.html" title="ODP packet flags. " alt="" coords="2809,229,2925,256"/>
+<area shape="rect" id="node35" href="$api_2packet__io_8h.html" title="ODP Packet IO. " alt="" coords="2913,155,3011,181"/>
+<area shape="rect" id="node36" href="$api_2spec_2traffic__mngr_8h.html" title="Copyright (c) 2015&#45;2018, Linaro Limited All rights reserved. " alt="" coords="3001,229,3113,256"/>
+<area shape="rect" id="node37" href="$api_2queue_8h.html" title="ODP queue. " alt="" coords="3137,155,3211,181"/>
+<area shape="rect" id="node38" href="$api_2spec_2schedule_8h.html" title="ODP schedule. " alt="" coords="3287,229,3379,256"/>
+<area shape="rect" id="node39" href="$spec_2chksum_8h.html" title="ODP checksum functions. " alt="" coords="3286,155,3371,181"/>
+<area shape="rect" id="node40" href="$api_2spec_2cpu_8h.html" title="ODP CPU API. " alt="" coords="3396,155,3453,181"/>
+<area shape="rect" id="node41" href="$spec_2feature_8h.html" title="ODP features. " alt="" coords="3477,155,3559,181"/>
+<area shape="rect" id="node42" href="$api_2spec_2hash_8h.html" title="ODP Hash functions. " alt="" coords="3583,155,3648,181"/>
+<area shape="rect" id="node43" href="$api_2spec_2init_8h.html" title="init.h" alt="" coords="3672,155,3727,181"/>
+<area shape="rect" id="node44" href="$api_2spec_2pool_8h.html" title="ODP pool. " alt="" coords="3751,155,3813,181"/>
+<area shape="rect" id="node45" href="$api_2spec_2stash_8h.html" title="ODP stash. " alt="" coords="3838,155,3907,181"/>
+<area shape="rect" id="node46" href="$spec_2threshold_8h.html" title="ODP threshold descriptor. " alt="" coords="3932,155,4027,181"/>
+<area shape="rect" id="node47" href="$api_2spec_2thrmask_8h.html" title="ODP thread masks. " alt="" coords="4051,155,4139,181"/>
+<area shape="rect" id="node48" href="$system__info_8h.html" title="ODP system information. " alt="" coords="3651,304,3766,331"/>
+<area shape="rect" id="node49" href="$api_2time_8h.html" title="ODP time. " alt="" coords="3973,304,4037,331"/>
+<area shape="rect" id="node50" href="$api_2timer_8h.html" title="ODP timer service. " alt="" coords="4152,304,4220,331"/>
+<area shape="rect" id="node4" href="$arch_2arm32-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="5,229,84,256"/>
+<area shape="rect" id="node5" href="$arch_2arm64-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="108,229,187,256"/>
+<area shape="rect" id="node6" href="$arch_2default-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="211,229,289,256"/>
+<area shape="rect" id="node7" href="$arch_2mips64-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="313,229,392,256"/>
+<area shape="rect" id="node8" href="$arch_2power64-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="416,229,495,256"/>
+<area shape="rect" id="node9" href="$arch_2x86__32-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="519,229,597,256"/>
+<area shape="rect" id="node10" href="$arch_2x86__64-linux_2odp_2api_2abi_2atomic_8h_source.html" title="atomic.h" alt="" coords="621,229,700,256"/>
+<area shape="rect" id="node12" href="$arch_2arm32-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="724,229,800,256"/>
+<area shape="rect" id="node13" href="$arch_2arm64-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="824,229,900,256"/>
+<area shape="rect" id="node14" href="$arch_2default-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="924,229,1000,256"/>
+<area shape="rect" id="node15" href="$arch_2mips64-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="1024,229,1100,256"/>
+<area shape="rect" id="node16" href="$arch_2power64-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="1124,229,1200,256"/>
+<area shape="rect" id="node17" href="$arch_2x86__32-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="1224,229,1300,256"/>
+<area shape="rect" id="node18" href="$arch_2x86__64-linux_2odp_2api_2abi_2barrier_8h_source.html" title="barrier.h" alt="" coords="1324,229,1400,256"/>
+</map>

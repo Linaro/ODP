@@ -1,0 +1,20 @@
+<map id="queue.h" name="queue.h">
+<area shape="rect" id="node2" href="$std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="539,543,688,569"/>
+<area shape="rect" id="node15" href="$spec_2queue_8h.html" title="ODP queue. " alt="" coords="1203,80,1363,107"/>
+<area shape="rect" id="node4" href="$spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="319,625,502,651"/>
+<area shape="rect" id="node7" href="$align_8h.html" title="ODP alignments. " alt="" coords="466,707,585,733"/>
+<area shape="rect" id="node9" href="$spec_2align_8h.html" title="ODP alignments. " alt="" coords="651,781,803,808"/>
+<area shape="rect" id="node16" href="$event_8h.html" title="ODP event. " alt="" coords="1221,155,1344,181"/>
+<area shape="rect" id="node25" href="$queue__types_8h.html" title="ODP queue types. " alt="" coords="1329,453,1477,495"/>
+<area shape="rect" id="node17" href="$spec_2event_8h.html" title="ODP event. " alt="" coords="720,229,877,256"/>
+<area shape="rect" id="node18" href="$packet_8h.html" title="ODP packet descriptor. " alt="" coords="712,304,843,331"/>
+<area shape="rect" id="node21" href="$spec_2packet_8h.html" title="ODP packet descriptor. " alt="" coords="654,379,818,405"/>
+<area shape="rect" id="node22" href="$time_8h.html" title="ODP time. " alt="" coords="781,461,897,487"/>
+<area shape="rect" id="node24" href="$spec_2time_8h.html" title="ODP time. " alt="" coords="878,781,1029,808"/>
+<area shape="rect" id="node26" href="$schedule__types_8h.html" title="ODP schedule. " alt="" coords="1309,543,1496,569"/>
+<area shape="rect" id="node31" href="$deprecated_8h.html" title="Control deprecated API definitions. " alt="" coords="1123,543,1282,569"/>
+<area shape="rect" id="node28" href="$spec_2schedule__types_8h.html" title="ODP schedule types. " alt="" coords="1298,617,1465,659"/>
+<area shape="rect" id="node29" href="$support_8h.html" title="ODP support API &#45; platform specific header. " alt="" coords="1391,707,1526,733"/>
+<area shape="rect" id="node30" href="$spec_2support_8h.html" title="ODP support API. " alt="" coords="1374,781,1543,808"/>
+<area shape="rect" id="node32" href="$spec_2deprecated_8h.html" title="Macro for deprecated API definitions. " alt="" coords="1105,781,1298,808"/>
+</map>

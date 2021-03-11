@@ -1,0 +1,5 @@
+<map id="odp_pktio_config_t" name="odp_pktio_config_t">
+<area shape="rect" id="node2" href="$structodp__pktio__parser__config__t.html" title="Parser configuration. " alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node3" href="$unionodp__pktin__config__opt__t.html" title="Packet input configuration options bit field. " alt="" coords="222,5,394,32"/>
+<area shape="rect" id="node4" href="$unionodp__pktout__config__opt__t.html" title="Packet output configuration options bit field. " alt="" coords="419,5,600,32"/>
+</map>

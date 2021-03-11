@@ -1,0 +1,20 @@
+<map id="shared_memory.h" name="shared_memory.h">
+<area shape="rect" id="node3" href="$api_2spec_2shared__memory_8h.html" title="ODP shared memory. " alt="" coords="517,80,669,121"/>
+<area shape="rect" id="node4" href="$visibility__begin_8h_source.html" title="odp/visibility_begin.h" alt="" coords="449,781,610,808"/>
+<area shape="rect" id="node5" href="$api_2init_8h.html" title="ODP initialization. " alt="" coords="540,169,647,196"/>
+<area shape="rect" id="node15" href="$visibility__end_8h_source.html" title="odp/visibility_end.h" alt="" coords="1353,781,1503,808"/>
+<area shape="rect" id="node7" href="$api_2spec_2init_8h.html" title="odp/api/spec/init.h" alt="" coords="443,244,584,271"/>
+<area shape="rect" id="node8" href="$api_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="317,468,467,495"/>
+<area shape="rect" id="node16" href="$hints_8h.html" title="ODP compiler hints. " alt="" coords="911,319,1030,345"/>
+<area shape="rect" id="node18" href="$feature_8h.html" title="ODP features. " alt="" coords="447,319,580,345"/>
+<area shape="rect" id="node20" href="$api_2thread_8h.html" title="ODP thread API. " alt="" coords="1311,617,1439,644"/>
+<area shape="rect" id="node24" href="$api_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="183,617,329,644"/>
+<area shape="rect" id="node10" href="$api_2spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="542,543,725,569"/>
+<area shape="rect" id="node12" href="$api_2align_8h.html" title="ODP alignments. " alt="" coords="690,617,809,644"/>
+<area shape="rect" id="node14" href="$api_2spec_2align_8h.html" title="ODP alignments. " alt="" coords="760,699,912,726"/>
+<area shape="rect" id="node17" href="$spec_2hints_8h.html" title="ODP compiler hints. " alt="" coords="936,699,1088,726"/>
+<area shape="rect" id="node19" href="$spec_2feature_8h.html" title="ODP features. " alt="" coords="430,393,597,420"/>
+<area shape="rect" id="node21" href="$thread__types_8h.html" title="ODP thread API types. " alt="" coords="1299,692,1450,733"/>
+<area shape="rect" id="node23" href="$api_2spec_2thread_8h.html" title="ODP thread API. " alt="" coords="1112,699,1275,726"/>
+<area shape="rect" id="node26" href="$api_2spec_2cpumask_8h.html" title="ODP CPU masks and enumeration. " alt="" coords="288,699,467,726"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="packet_inlines.h" name="packet_inlines.h">
+<area shape="rect" id="node3" href="$pool_8h.html" title="ODP pool. " alt="" coords="745,87,859,114"/>
+<area shape="rect" id="node18" href="$hints_8h.html" title="ODP compiler hints. " alt="" coords="985,348,1104,375"/>
+<area shape="rect" id="node20" href="$time_8h.html" title="ODP time. " alt="" coords="187,177,303,203"/>
+<area shape="rect" id="node24" href="$packet__inline__types_8h.html" title="ODP packet descriptor. " alt="" coords="861,259,1007,300"/>
+<area shape="rect" id="node25" href="$pool__inline__types_8h.html" title="ODP packet descriptor. " alt="" coords="1501,80,1676,121"/>
+<area shape="rect" id="node26" href="$pktio__inlines_8h_source.html" title="odp/api/plat/pktio\l_inlines.h" alt="" coords="1701,80,1837,121"/>
+<area shape="rect" id="node7" href="$spec_2pool_8h.html" title="ODP pool. " alt="" coords="688,177,836,203"/>
+<area shape="rect" id="node9" href="$std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="549,266,698,293"/>
+<area shape="rect" id="node11" href="$spec_2std__types_8h.html" title="Standard C language types and definitions for ODP. " alt="" coords="648,348,831,375"/>
+<area shape="rect" id="node13" href="$align_8h.html" title="ODP alignments. " alt="" coords="651,423,769,449"/>
+<area shape="rect" id="node15" href="$spec_2align_8h.html" title="ODP alignments. " alt="" coords="634,497,786,524"/>
+<area shape="rect" id="node19" href="$spec_2hints_8h.html" title="ODP compiler hints. " alt="" coords="861,497,1013,524"/>
+<area shape="rect" id="node22" href="$spec_2time_8h.html" title="ODP time. " alt="" coords="240,497,391,524"/>
+</map>

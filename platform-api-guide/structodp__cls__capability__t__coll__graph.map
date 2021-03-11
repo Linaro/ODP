@@ -1,0 +1,5 @@
+<map id="odp_cls_capability_t" name="odp_cls_capability_t">
+<area shape="rect" id="node2" href="$unionodp__threshold__types__t.html" title="Supported threshold types. " alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node3" href="$unionodp__pktin__hash__proto__t.html" title="Packet input hash protocols. " alt="" coords="199,5,376,32"/>
+<area shape="rect" id="node4" href="$unionodp__cls__pmr__terms__t.html" title="Supported PMR term values. " alt="" coords="400,5,561,32"/>
+</map>
